@@ -1,0 +1,2 @@
+web: target/universal/stage/bin/hiperion -Dhttp.port=$PORT
+console: target/universal/stage/bin/hiperion -main scala.tools.nsc.MainGenericRunner -usejavacp

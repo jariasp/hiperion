@@ -1,0 +1,22 @@
+{
+  "name": "gea",
+  "authors": [
+    "jariasp <jariasp@yahoo.com>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
+}
